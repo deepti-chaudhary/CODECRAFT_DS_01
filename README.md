@@ -7,7 +7,7 @@
 # Dataset Used
 <a href="https://github.com/deepti-chaudhary/CODECRAFT_DS_01/blob/main/heart_attack_youngsters_india.xlsx">Dataset</a>
 
-#Questions (KPIs)
+# Questions (KPIs)
 - Compare the age and heart attack likelihood using a column chart.
 - Difference in heart attack likelihood of different ages.
 - Are senior citizens more or less prone to heart attack than adults?
@@ -18,10 +18,10 @@
 - Which gender is more likely to have a heart attack?
 - Is there any difference or not?
 
-#Process
+# Process
 - Verify the data for any error , anomalies or missing value and sort them out.
 - Created pivot tables and pivot charts according to the questions mentioned above.
 - Merged all the charts in one dashboard and applied slicers  for dynamic interactive analysis.
 
-#Dashboard
+# Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/a5a6785a-b303-4c67-9dcc-3bbb53c1889a)
