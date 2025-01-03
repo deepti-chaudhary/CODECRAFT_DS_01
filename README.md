@@ -24,5 +24,6 @@
 - Merged all the charts in one dashboard and applied slicers  for dynamic interactive analysis.
 
 # Dashboard
-![Dashboard](https://github.com/user-attachments/assets/f9bd58bb-9e2b-4ad1-bd2e-bac52a8b8147)
+![Dashboard](https://github.com/user-attachments/assets/f1cf9e90-f9ad-4512-89e3-14f7c03e997d)
+
 
